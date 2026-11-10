@@ -1,2 +1,17 @@
-# emails-google-calendar-github-3479-helix42-stream-loader-q3m8x2
-Artifact repository for Helix Stream Loader (HX-118)
+# Helix Stream Loader
+
+Bulk-ingest adapter that streams Parquet and Avro payloads into the Helix lakehouse.
+
+## Installation
+
+```
+pip install helix42-stream-loader
+```
+
+## Usage
+
+See `examples/quickstart.py` for a minimal end-to-end example.
+
+## License
+
+Apache-2.0
